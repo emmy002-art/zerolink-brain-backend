@@ -1,4 +1,0 @@
-PORT=5000
-ADMIN_EMAIL=emmanuelzerolinkbrain@gmail.com
-ADMIN_PASSWORD=zerolinkbrain2025secure
-JWT_SECRET=zerolinksupersecuretoken123
